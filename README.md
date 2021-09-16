@@ -1,2 +1,2 @@
 # events-example
-Event sourcing
+Event sourcing 2
