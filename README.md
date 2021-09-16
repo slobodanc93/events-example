@@ -1,2 +1,2 @@
 # events-example
-Event sourcing test
+Event sourcing test2
